@@ -14,7 +14,7 @@ Projects: Showcases recent project works with descriptions.
 
 Contact: Provides contact information and location details.
 
-
+------------------------------------------------------------------
 
 
 Responsive design suitable for various devices.
