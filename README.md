@@ -15,6 +15,8 @@ Projects: Showcases recent project works with descriptions.
 Contact: Provides contact information and location details.
 
 
+
+
 Responsive design suitable for various devices.
 
 Custom CSS for styling and layout adjustments.
