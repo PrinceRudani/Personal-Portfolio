@@ -13,6 +13,7 @@ Education: Displays academic qualifications and institutions attended.
 Projects: Showcases recent project works with descriptions.
 
 Contact: Provides contact information and location details.
+
 ------------------------------------------------------------------
 Responsive design suitable for various devices.
 
